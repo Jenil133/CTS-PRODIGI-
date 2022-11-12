@@ -52,6 +52,6 @@ As the minimum viable product, the version 0.0, we can implement all the feature
 <img src = https://img.shields.io/badge/-next.js-blue>
 <img src = https://img.shields.io/badge/-moralis-9cf>
 <img src = https://img.shields.io/badge/-solidity-ff69b4>
-<img src = https://img.shields.io/badge/-tailwind-yellow>
+<img src = https://img.shields.io/badge/-tailwind-css-yellow>
 <img src = https://img.shields.io/badge/-netlify-yellowgreen>
 <img src = https://img.shields.io/badge/-infura-critical>
