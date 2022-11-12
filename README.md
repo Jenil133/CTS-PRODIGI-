@@ -17,13 +17,14 @@ The application opens a whole new arena in the ecommerce world. So it functions 
 4. This user can then upload 10-30 second videos, demonstrating their products to sell them. They have to provide tags and keywords for a good reach.<br>
 5. The second form of user, the buyer will create their own account having their information(name, address, contact).<br>
 6. This information will be confidential and will only be shared to the store if the user buys something from a page on the app.<br>
-7. This buyer profile will be connected to a wallet. The user can swap their currencies with the app's currency to buy things.<br>
-8. The user can either search a product or mindlessly scroll through new content. <br>
-9. Upon setting up a buyers profile, the buyer will have latest product on their feed. With time their feed will get customised according to them.<br>
-10. Once a buyer likes some product, they will click on the BUY button available in the bottom right of the page. <br> 
-11. The button will guiide the user to the checkout cart<br>
-12. The checkout cart will be connected to the wallet and the user can buy the product using our currency.<br>
-13. The buyers after using the product can review it and other potential buyers can make a decision to buy a product or not.<br>
+7. We are introducing a new coin/currency on our platform where user can buy the products using it . User can easily exchange it with other currency
+8. This buyer profile will be connected to a wallet. The user can swap their currencies with the app's currency to buy things.<br>
+9. The user can either search a product or mindlessly scroll through new content. <br>
+10. Upon setting up a buyers profile, the buyer will have latest product on their feed. With time their feed will get customised according to them.<br>
+11. Once a buyer likes some product, they will click on the BUY button available in the bottom right of the page. <br> 
+12. The button will guiide the user to the checkout cart<br>
+13. The checkout cart will be connected to the wallet and the user can buy the product using our currency.<br>
+14. The buyers after using the product can review it and other potential buyers can make a decision to buy a product or not.<br>
 
 <h3> Background work </h3>
 This web3 app is an amalgamation of amazon and tiktok, both being very popular in today's time. People today run to amazon immediately for small things and spend most of their time on tiktok / instagram. We are trying to accumulate the best and profitable features from both the apps. <br> 
