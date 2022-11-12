@@ -32,7 +32,7 @@ This web3 app is an amalgamation of amazon and tiktok, both being very popular i
 <h3> Why is it unique?🎉 </h3>
 1. No web3 marketplace sells actual physical products.<br>
 2. Having a unique currency makes the buying process easier.<br>
-3. It is a secure place for both, the sellers and the buyers.
+3. It is a secure place for both, the sellers and the buyers.<br>
 4. The sellers get the money starightaway and the buyers know the sellers are authentic.<br>
 
 <h3> Will the idea generate revenue? 🔴</h3>
